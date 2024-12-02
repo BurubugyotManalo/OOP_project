@@ -1,5 +1,7 @@
 **Project Overview**
+
 **FitTrack**
+
 FitTrack is a Java-based console application designed to help users track their fitness journey. The program allows users to input their personal details, set fitness goals, log exercise activities, and track weight changes over time. By providing real-time feedback on progress, FitTrack helps users stay motivated and focused on achieving their health and wellness goals.
 
 The app uses key Object-Oriented Programming (OOP) principles such as encapsulation, inheritance, polymorphism, and abstraction to structure the code efficiently and maintain high standards of software design.
