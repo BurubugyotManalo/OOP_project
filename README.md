@@ -4,20 +4,33 @@ FitTrack is a Java-based console application designed to help users track their 
 
 The app uses key Object-Oriented Programming (OOP) principles such as encapsulation, inheritance, polymorphism, and abstraction to structure the code efficiently and maintain high standards of software design.
 
-Core Features:
+
+**Core Features**
+
 **User Profile Setup**
+
 Allows users to input their name, current weight, and target weight.
+
 **Exercise Logging**
+
 Users can log their daily exercises, categorized into cardio or strength training.
+
 **Weight Tracking**
+
 Users can update their current weight and track progress toward their target weight.
+
 **Progress Summary**
+
 View a summary of their exercise history and weight progress.
+
 **Exit Option**
+
 Provides a clean exit from the program.
 
-Explanation of How OOP Principles Were Applied
-FitTrack demonstrates the following core Object-Oriented Programming (OOP) principles:
+
+**Explanation of How OOP Principles Were Applied**
+
+**FitTrack demonstrates the following core Object-Oriented Programming (OOP) principles**
 
 **Encapsulation**
 Encapsulation is the practice of restricting direct access to some of an object's components and providing controlled access through public methods (getters and setters). In FitTrack, the User class encapsulates the user's personal information, such as their name, current weight, and target weight. These details are stored as private fields, and the values are accessed or modified only through public getter and setter methods, ensuring that the data is protected and can only be altered in a controlled manner.
