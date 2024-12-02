@@ -8,23 +8,18 @@ The app uses key Object-Oriented Programming (OOP) principles such as encapsulat
 **Core Features**
 
 **User Profile Setup**
-
 Allows users to input their name, current weight, and target weight.
 
 **Exercise Logging**
-
 Users can log their daily exercises, categorized into cardio or strength training.
 
 **Weight Tracking**
-
 Users can update their current weight and track progress toward their target weight.
 
 **Progress Summary**
-
 View a summary of their exercise history and weight progress.
 
 **Exit Option**
-
 Provides a clean exit from the program.
 
 
