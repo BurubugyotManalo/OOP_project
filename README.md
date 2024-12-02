@@ -9,18 +9,23 @@ The app uses key Object-Oriented Programming (OOP) principles such as encapsulat
 **Core Features**
 
 **User Profile Setup**
+
 Allows users to input their name, current weight, and target weight.
 
 **Exercise Logging**
+
 Users can log their daily exercises, categorized into cardio or strength training.
 
 **Weight Tracking**
+
 Users can update their current weight and track progress toward their target weight.
 
 **Progress Summary**
+
 View a summary of their exercise history and weight progress.
 
 **Exit Option**
+
 Provides a clean exit from the program.
 
 
@@ -58,13 +63,23 @@ In summary, FitTrack directly supports SDG 3 by encouraging physical activity, p
 
 
 **Instructions for Running the Program**
+
 **Clone the Repository**
+
 Clone or download the repository to your local machine.
+
 **Setup Your Development Environment**
+
 Ensure that you have the Java Development Kit (JDK) installed on your machine.
+
 **Compile the Code**
+
 Navigate to the project folder in your terminal or command prompt and compile the Java files.
+
 **Run the Program**
+
 After compiling, run the program to start interacting with the FitTrack app.
+
 **Interacting with the Program**
+
 The program will display a menu allowing you to log exercises, update weight, view progress, or exit.
