@@ -7,5 +7,9 @@ public abstract class Exercise {
         this.caloriesBurnedPerMinute = caloriesBurnedPerMinute;
     }
 
-    public abstract double calculateCaloriesBurned(int duration); // Abstract method
+    public String getExerciseName() {
+        return exerciseName;
+    }
+
+    public abstract double calculateCaloriesBurned(int duration);
 }
